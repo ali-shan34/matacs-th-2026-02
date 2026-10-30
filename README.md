@@ -2,7 +2,7 @@
 
 **Candidate:** Ali Shan  
 **Assessment reference:** MATACS-TH-2026-02  
-**Time spent:** [Enter your actual time spent before submission.]
+**Time spent:** [Actual time spent: 55 minutes.]
 
 ## Files
 - [Process flow diagram](diagram/flow.png)
